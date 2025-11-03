@@ -56,7 +56,7 @@ Ambient vibration data from the UP Carillon in Diliman was collected on October 
 
 ## Part II: UP Carillon @Los Baños
 
-Ambient vibration data from the UP Carillon in Diliman was collected on October 9, 2025. The animated mode shapes corresponding to their respective extracted frequencies are presented below.
+Ambient vibration data from the UP Carillon in Los Baños was collected on August 5, 2025. The animated mode shapes corresponding to their respective extracted frequencies are presented below.
 
 <div style="text-align:center">
 
